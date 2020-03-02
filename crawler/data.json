@@ -1,0 +1,128 @@
+[
+  {
+    "deathCount": "67103",
+    "healCount": "2803",
+    "province": "",
+    "sickCount": "湖北",
+    "totalCount": "30538"
+  },
+  {
+    "deathCount": "49315",
+    "healCount": "2227",
+    "province": "武汉",
+    "sickCount": "武汉",
+    "totalCount": "25903"
+  },
+  {
+    "deathCount": "3518",
+    "healCount": "120",
+    "province": "孝感",
+    "sickCount": "孝感",
+    "totalCount": "1001"
+  },
+  {
+    "deathCount": "2905",
+    "healCount": "116",
+    "province": "黄冈",
+    "sickCount": "黄冈",
+    "totalCount": "529"
+  },
+  {
+    "deathCount": "1391",
+    "healCount": "48",
+    "province": "鄂州",
+    "sickCount": "鄂州",
+    "totalCount": "529"
+  },
+  {
+    "deathCount": "1580",
+    "healCount": "48",
+    "province": "荆州",
+    "sickCount": "荆州",
+    "totalCount": "436"
+  },
+  {
+    "deathCount": "1307",
+    "healCount": "40",
+    "province": "随州",
+    "sickCount": "随州",
+    "totalCount": "402"
+  },
+  {
+    "deathCount": "931",
+    "healCount": "31",
+    "province": "宜昌",
+    "sickCount": "宜昌",
+    "totalCount": "365"
+  },
+  {
+    "deathCount": "927",
+    "healCount": "39",
+    "province": "荆门",
+    "sickCount": "荆门",
+    "totalCount": "266"
+  },
+  {
+    "deathCount": "1175",
+    "healCount": "34",
+    "province": "襄阳",
+    "sickCount": "襄阳",
+    "totalCount": "256"
+  },
+  {
+    "deathCount": "1014",
+    "healCount": "35",
+    "province": "黄石",
+    "sickCount": "黄石",
+    "totalCount": "250"
+  },
+  {
+    "deathCount": "672",
+    "healCount": "7",
+    "province": "十堰",
+    "sickCount": "十堰",
+    "totalCount": "206"
+  },
+  {
+    "deathCount": "575",
+    "healCount": "19",
+    "province": "仙桃",
+    "sickCount": "仙桃",
+    "totalCount": "95"
+  },
+  {
+    "deathCount": "836",
+    "healCount": "12",
+    "province": "咸宁",
+    "sickCount": "咸宁",
+    "totalCount": "89"
+  },
+  {
+    "deathCount": "496",
+    "healCount": "14",
+    "province": "天门",
+    "sickCount": "天门",
+    "totalCount": "89"
+  },
+  {
+    "deathCount": "198",
+    "healCount": "9",
+    "province": "潜江",
+    "sickCount": "潜江",
+    "totalCount": "67"
+  },
+  {
+    "deathCount": "252",
+    "healCount": "4",
+    "province": "恩施州",
+    "sickCount": "恩施州",
+    "totalCount": "55"
+  },
+  {
+    "deathCount": "11",
+    "healCount": "0",
+    "province": "神农架林区",
+    "sickCount": "神农架林区",
+    "totalCount": "0"
+  }
+]
